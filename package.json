@@ -1,7 +1,9 @@
 {
   "scripts": {
-    "start": "vite"
-  },
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+},
   "devDependencies": {
     "autoprefixer": "^10.4.20",
     "postcss": "^8.4.47",
